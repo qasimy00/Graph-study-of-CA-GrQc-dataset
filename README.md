@@ -11,17 +11,17 @@
 8. Display the shortest path length distribution 
 9. Display the diameter of the graph
 
-Degree Distributions:
+### Degree Distributions:
 
 10. Display the in-degree distribution in the form of a table 
 11. Display the out-degree distribution in the form of a table 
 
-Connected Components:
+### Connected Components:
 
-For the original graph:
+### For the original graph:
 12. Display the size of the largest strongly connected component (SCC) and the size distribution of all SCCs
 
-Considering the graph as an undirected graph:
+### Considering the graph as an undirected graph:
 13. Display the size of the largest weakly connected component (WCC) and the size distribution of all WCCs
 
 Made with https://github.com/rafaykiyani135
