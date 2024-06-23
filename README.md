@@ -1,6 +1,6 @@
-#Graph study of CA-GrQc dataset (https://arxiv.org/archive/gr-qc)
+# Graph study of CA-GrQc dataset (https://arxiv.org/archive/gr-qc)
 
-##Graph properties calculated:
+## Graph properties calculated:
 1. Display the number of nodes 
 2. Display the number of edges 
 3. Display the number of source nodes 
